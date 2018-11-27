@@ -1,0 +1,14 @@
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/bin/Debug/netcoreapp2.1/biovia.api.deps.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/bin/Debug/netcoreapp2.1/biovia.api.runtimeconfig.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/bin/Debug/netcoreapp2.1/biovia.api.runtimeconfig.dev.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/bin/Debug/netcoreapp2.1/biovia.api.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/bin/Debug/netcoreapp2.1/biovia.api.pdb
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.csprojAssemblyReference.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.csproj.CoreCompileInputs.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.RazorAssemblyInfo.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.RazorAssemblyInfo.cs
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.AssemblyInfoInputs.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.AssemblyInfo.cs
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.RazorTargetAssemblyInfo.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.api/obj/Debug/netcoreapp2.1/biovia.api.pdb

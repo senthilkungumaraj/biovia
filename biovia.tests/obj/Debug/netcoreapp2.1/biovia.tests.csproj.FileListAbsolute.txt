@@ -1,0 +1,17 @@
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/biovia.tests.deps.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/biovia.tests.runtimeconfig.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/biovia.tests.runtimeconfig.dev.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/biovia.tests.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/biovia.tests.pdb
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/biovia.api.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/bin/Debug/netcoreapp2.1/biovia.api.pdb
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/obj/Debug/netcoreapp2.1/biovia.tests.csprojAssemblyReference.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/obj/Debug/netcoreapp2.1/biovia.tests.csproj.CoreCompileInputs.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/obj/Debug/netcoreapp2.1/biovia.tests.AssemblyInfoInputs.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/obj/Debug/netcoreapp2.1/biovia.tests.AssemblyInfo.cs
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/obj/Debug/netcoreapp2.1/biovia.tests.csproj.CopyComplete
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/obj/Debug/netcoreapp2.1/biovia.tests.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.tests/obj/Debug/netcoreapp2.1/biovia.tests.pdb

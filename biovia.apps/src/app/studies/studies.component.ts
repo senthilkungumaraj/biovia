@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChildren, QueryList, AfterViewInit } from '@angular/core';
+import { Component, OnInit, ViewChildren, QueryList, AfterViewInit, NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { MatPaginator, MatSort, MatTableDataSource } from '@angular/material';
 import { ActivatedRoute } from '@angular/router';
 import { ApiService } from '../api.service';
@@ -9,6 +9,15 @@ import { Project } from '../project';
   selector: 'app-studies',
   templateUrl: './studies.component.html',
   styleUrls: ['./studies.component.scss']
+})
+@NgModule({
+  imports: [
+    MatPaginator
+  ],
+  exports: [
+    MatPaginator
+  ],
+  schemas: [ CUSTOM_ELEMENTS_SCHEMA ]
 })
 export class StudiesComponent implements OnInit, AfterViewInit {
 

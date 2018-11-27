@@ -1,0 +1,14 @@
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/bin/Debug/netcoreapp2.1/biovia.seeder.deps.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/bin/Debug/netcoreapp2.1/biovia.seeder.runtimeconfig.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/bin/Debug/netcoreapp2.1/biovia.seeder.runtimeconfig.dev.json
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/bin/Debug/netcoreapp2.1/biovia.seeder.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/bin/Debug/netcoreapp2.1/biovia.seeder.pdb
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/bin/Debug/netcoreapp2.1/biovia.api.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/bin/Debug/netcoreapp2.1/biovia.api.pdb
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/obj/Debug/netcoreapp2.1/biovia.seeder.csprojAssemblyReference.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/obj/Debug/netcoreapp2.1/biovia.seeder.csproj.CoreCompileInputs.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/obj/Debug/netcoreapp2.1/biovia.seeder.AssemblyInfoInputs.cache
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/obj/Debug/netcoreapp2.1/biovia.seeder.AssemblyInfo.cs
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/obj/Debug/netcoreapp2.1/biovia.seeder.csproj.CopyComplete
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/obj/Debug/netcoreapp2.1/biovia.seeder.dll
+/Users/kungumarajnachimuthu/Desktop/GitHub/biovia/biovia.seeder/obj/Debug/netcoreapp2.1/biovia.seeder.pdb

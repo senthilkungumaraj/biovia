@@ -9,7 +9,7 @@ import { Experiment } from './experiment';
 const httpOptions = {
   headers: new HttpHeaders({'Content-Type': 'application/json'})
 };
-const apiUrl = "http://localhost:5001/api/projects";
+const apiUrl = "https://localhost:5001/api/projects";
 
 @Injectable({
   providedIn: 'root'
